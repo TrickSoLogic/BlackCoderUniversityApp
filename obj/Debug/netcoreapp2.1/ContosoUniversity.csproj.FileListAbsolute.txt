@@ -1,0 +1,114 @@
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.deps.json
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.runtimeconfig.json
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.dll
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.pdb
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.Views.dll
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.Views.pdb
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.AssemblyInfo.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.TagHelpers.input.cache
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.TagHelpers.output.cache
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.RazorCoreGenerate.cache
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Create.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Delete.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Details.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Edit.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Index.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Courses\UpdateCourseCredits.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Create.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Delete.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Details.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Edit.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Index.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Students\Create.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Students\Delete.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.RazorTargetAssemblyInfo.cache
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.RazorTargetAssemblyInfo.cs
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.Views.pdb
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.dll
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.pdb
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.genruntimeconfig.cache
+C:\Users\visha\Desktop\My course 2\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.csproj.CopyComplete
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.deps.json
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.runtimeconfig.json
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.dll
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.pdb
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.Views.dll
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\bin\Debug\netcoreapp2.1\ContosoUniversity.Views.pdb
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.AssemblyInfo.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.TagHelpers.input.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.TagHelpers.output.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.RazorCoreGenerate.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Create.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Delete.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Details.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Edit.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Index.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Courses\UpdateCourseCredits.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Create.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Delete.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Details.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Edit.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Index.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Students\Create.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Students\Delete.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.RazorTargetAssemblyInfo.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.RazorTargetAssemblyInfo.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.Views.pdb
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.dll
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.pdb
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.genruntimeconfig.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFCoreAsp.NetMvcWebApp\ContosoUniversity010\obj\Debug\netcoreapp2.1\ContosoUniversity.csproj.CopyComplete
